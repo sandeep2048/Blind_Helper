@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Blind Helper</string>
+    <string name="button_select_image">Select Image</string>
+    <string name="button_capture_image">Capture Image</string>
+    <string name="main_image_description">Main Image.</string>
+    <string name="button_detect_objects">Detect Objects</string>
+    <string name="button_detect_text">Detect Text</string>
+    <string name="text_detection_start">Text Detection Started!</string>
+    <string name="text_detection_successful">Text Detected Successfully!</string>
+    <string name="object_detection_start">Object Detection Started!</string>
+    <string name="object_detection_successful">Object Detection Successful!</string>
+    <string name="text_detect_error">Error while detecting text!</string>
+    <string name="detected_text_in_english_heading">Detected Text in English</string>
+    <string name="mapped_to_grade_1_braille_heading">Mapped to Grade 1 Braille</string>
+    <string name="not_yet_implemented">Not Yet Implemented!</string>
+    <string name="error_detecting_objects">Error while detecting objects!</string>
+    <string name="object_detection_results_heading">Object Detection Results</string>
+    <string name="in_english">In English</string>
+    <string name="in_braille">In Braille</string>
+    <string name="text_detection_results_heading">Text Detection Results</string>
+    <string name="button_voice_command">Voice Command</string>
+</resources>
